@@ -1,0 +1,15 @@
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\bin\Debug\net8.0\input-missing-game.exe
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\bin\Debug\net8.0\input-missing-game.deps.json
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\bin\Debug\net8.0\input-missing-game.runtimeconfig.json
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\bin\Debug\net8.0\input-missing-game.dll
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\bin\Debug\net8.0\input-missing-game.pdb
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\obj\Debug\net8.0\input-missing-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\obj\Debug\net8.0\input-missing-game.AssemblyInfoInputs.cache
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\obj\Debug\net8.0\input-missing-game.AssemblyInfo.cs
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\obj\Debug\net8.0\input-missing-game.csproj.CoreCompileInputs.cache
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\obj\Debug\net8.0\input-missing-game.sourcelink.json
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\obj\Debug\net8.0\input-missing-game.dll
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\obj\Debug\net8.0\refint\input-missing-game.dll
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\obj\Debug\net8.0\input-missing-game.pdb
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\obj\Debug\net8.0\input-missing-game.genruntimeconfig.cache
+C:\Users\kylep\Documents\Tensure Apprenticeship\C# Practice\input-missing-game\input-missing-game\obj\Debug\net8.0\ref\input-missing-game.dll
